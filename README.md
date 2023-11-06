@@ -116,5 +116,5 @@ Text-to-image generation involves converting textual descriptions into visual re
 
 
 ## Conclusion
-        Text-to-image generation is a challenging yet promising field within AI, offering significant potential in various industries. 
+Text-to-image generation is a challenging yet promising field within AI, offering significant potential in various industries. 
 
